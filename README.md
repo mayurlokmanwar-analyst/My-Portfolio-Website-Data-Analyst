@@ -6,7 +6,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/Personal-Portfolio-Website?color=a9d6e5&style=for-the-badge)
 <br/>
 
-[🚀 Launch Live Portfolio Demo](https://mayurlokmanwar-analyst.github.io/Personal-Portfolio-Website)
+[🚀 Launch Live Portfolio Demo](https://mayurlokmanwar-analyst.github.io/My-Portfolio-Website)
 
 </div>
 
