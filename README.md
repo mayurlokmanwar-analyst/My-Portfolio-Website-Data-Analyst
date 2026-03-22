@@ -50,7 +50,7 @@ It highlights my expertise in:
 ## 📸 Portfolio Preview
 
 <div align="center">
-  <img src="images/portfolio-preview.png" alt="Portfolio Preview" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
+  <img src="My Entire Portfolio Website - Data Analyst/portfolio-preview.png" alt="Portfolio Preview" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
 </div>
 
 ---
