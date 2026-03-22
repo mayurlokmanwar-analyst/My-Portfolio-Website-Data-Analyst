@@ -44,7 +44,7 @@ This repository contains my **personal portfolio website**, built as a **Data An
 ## 📸 Portfolio Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/My-Portfolio-Website-Data-Analyst/main/images/portfolio-preview.png" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
+  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/My-Portfolio-Website-Data-Analyst/main/images/Portfolio-Preview.jpg" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
 </div>
 
 ---
