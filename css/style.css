@@ -1,0 +1,49 @@
+/* GITHUB SYNCED THEME: DATA ANALYST & BI 
+   Background: #01080e | Accents: #4682b4
+*/
+
+:root {
+  --primary: #4682b4;
+  --bg-dark: #01080e;
+  --bg-card: #0d1b2a;
+  --text-main: #e0e1dd;
+  --text-dim: #999999;
+}
+
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-dim);
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Matching the GitHub Repo Heading Style */
+h1, h2, h3, .navbar-brand {
+  color: var(--white) !important;
+  letter-spacing: 1px;
+}
+
+/* The "Glow" Animation for Project Cards */
+.project {
+  background: var(--bg-card) !important;
+  border: 1px solid #1b263b;
+  border-radius: 12px;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.project:hover {
+  border-color: var(--primary);
+  box-shadow: 0 0 20px rgba(70, 130, 180, 0.4);
+  transform: translateY(-10px);
+}
+
+/* Button Sync */
+.btn-primary {
+  background-color: var(--primary) !important;
+  border: none;
+  box-shadow: 0 4px 14px 0 rgba(70, 130, 180, 0.39);
+}
+
+/* Navigation dots matching the repo theme */
+.owl-theme .owl-dots .owl-dot.active span {
+  background: var(--primary) !important;
+}
