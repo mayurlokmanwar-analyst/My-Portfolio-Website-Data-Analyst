@@ -15,17 +15,23 @@
 
 ## 🚀 Overview
 
-This repository contains my **personal portfolio website**, built as a **Data Analyst Command Center** to showcase projects, dashboards, and business insights.
+This repository contains my **personal portfolio website**, designed as a **Data Analyst Command Center** to showcase projects, skills, and business insights.
+
+It highlights my expertise in:
+
+* SQL & Python-based Data Analysis
+* Power BI & Dashboarding
+* Business Intelligence & KPI Tracking
 
 ---
 
 ## 🎯 Key Features
 
-* 📊 Project Case Studies with KPIs & insights
-* 🧠 Data Storytelling with business-focused explanations
-* ⚡ Smooth UI & animations (AOS, dark theme)
-* 📱 Fully responsive design
-* 📬 Working contact form (email integration)
+* 📊 **Project Case Studies** — Real-world analytics projects with KPIs & insights
+* 🧠 **Data Storytelling** — Business-focused explanations of data
+* ⚡ **Interactive UI** — Smooth animations & modern dark theme
+* 📱 **Fully Responsive** — Optimized for all devices
+* 📬 **Contact Integration** — Direct connection via email, LinkedIn, GitHub
 
 ---
 
@@ -44,7 +50,7 @@ This repository contains my **personal portfolio website**, built as a **Data An
 ## 📸 Portfolio Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/Personal-Portfolio-Website/main/images/portfolio-preview.png" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
+  <img src="images/portfolio-preview.png" alt="Portfolio Preview" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
 </div>
 
 ---
@@ -53,22 +59,27 @@ This repository contains my **personal portfolio website**, built as a **Data An
 
 ```bash
 Personal-Portfolio-Website/
-├── css/
-├── fonts/
-├── images/
-├── js/
-├── lib/
-└── index.html
+├── css/        # Stylesheets & themes
+├── fonts/      # Custom fonts
+├── images/     # Images & assets (preview included)
+├── js/         # Scripts & animations
+├── lib/        # External libraries
+└── index.html  # Main portfolio file
 ```
 
 ---
 
 ## 💡 Highlights
 
-* 🚀 Custom dark "SwiftRoute" theme
-* 📊 5+ Data Analytics projects
-* 📈 Worked with 100K+ rows of data
-* 🧠 Domains: E-Commerce, Finance, HR, Logistics
+* Built with a **custom dark "SwiftRoute" theme**
+* Showcases **5+ Data Analytics projects**
+* Worked with **100K+ rows of data**
+* Covers domains like:
+
+  * E-Commerce
+  * Finance
+  * HR Analytics
+  * Logistics
 
 ---
 
@@ -76,11 +87,11 @@ Personal-Portfolio-Website/
 
 * 📍 Pune, India
 * 📧 [mayurlokmanwar@gmail.com](mailto:mayurlokmanwar@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/mayuresh07/
-* 💻 GitHub: https://github.com/mayurlokmanwar-analyst
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mayuresh07/)
+* 💻 [GitHub](https://github.com/mayurlokmanwar-analyst)
 
 ---
 
 ## ⭐ Final Note
 
-This portfolio represents my journey as a Data Analyst, combining technical skills, business insights, and clean UI into one platform.
+This portfolio is designed to reflect my journey as a **Data Analyst**, combining **technical skills + business insights + clean UI** into one platform.
