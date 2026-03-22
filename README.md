@@ -15,17 +15,17 @@
 
 ## 🚀 Overview
 
-This repository contains my **personal portfolio website**, built as a **Data Analyst Command Center** to showcase real-world projects, dashboards, and business insights.
+This repository contains my **personal portfolio website**, built as a **Data Analyst Command Center** to showcase projects, dashboards, and business insights.
 
 ---
 
 ## 🎯 Key Features
 
-* 📊 **Project Case Studies** with KPIs & insights
-* 🧠 **Data Storytelling** with business-focused explanations
-* ⚡ **Smooth UI & Animations** (AOS, modern dark theme)
-* 📱 **Fully Responsive Design**
-* 📬 **Working Contact Form (Email Integration)**
+* 📊 Project Case Studies with KPIs & insights
+* 🧠 Data Storytelling with business-focused explanations
+* ⚡ Smooth UI & animations (AOS, dark theme)
+* 📱 Fully responsive design
+* 📬 Working contact form (email integration)
 
 ---
 
@@ -44,7 +44,7 @@ This repository contains my **personal portfolio website**, built as a **Data An
 ## 📸 Portfolio Preview
 
 <div align="center">
-  <img src="images/portfolio-preview.png" alt="Portfolio Preview" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
+  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/Personal-Portfolio-Website/main/images/portfolio-preview.png" width="900" style="border-radius: 12px; border: 2px solid #1b263b;">
 </div>
 
 ---
@@ -65,15 +65,10 @@ Personal-Portfolio-Website/
 
 ## 💡 Highlights
 
-* 🚀 Built with a custom dark **"SwiftRoute" theme**
-* 📊 Showcases **5+ Data Analytics Projects**
-* 📈 Worked with **100K+ rows of data**
-* 🧠 Covers multiple domains:
-
-  * E-Commerce
-  * Finance
-  * HR Analytics
-  * Logistics
+* 🚀 Custom dark "SwiftRoute" theme
+* 📊 5+ Data Analytics projects
+* 📈 Worked with 100K+ rows of data
+* 🧠 Domains: E-Commerce, Finance, HR, Logistics
 
 ---
 
@@ -81,11 +76,11 @@ Personal-Portfolio-Website/
 
 * 📍 Pune, India
 * 📧 [mayurlokmanwar@gmail.com](mailto:mayurlokmanwar@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/mayuresh07/)
-* 💻 [GitHub](https://github.com/mayurlokmanwar-analyst)
+* 🔗 LinkedIn: https://www.linkedin.com/in/mayuresh07/
+* 💻 GitHub: https://github.com/mayurlokmanwar-analyst
 
 ---
 
 ## ⭐ Final Note
 
-This portfolio represents my journey as a **Data Analyst**, combining **technical expertise, business insights, and clean UI design** into one platform.
+This portfolio represents my journey as a Data Analyst, combining technical skills, business insights, and clean UI into one platform.
