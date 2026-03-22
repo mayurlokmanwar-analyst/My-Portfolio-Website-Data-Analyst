@@ -15,23 +15,17 @@
 
 ## 🚀 Overview
 
-This repository contains my **personal portfolio website**, designed as a **Data Analyst Command Center** to showcase projects, skills, and business insights.
-
-It highlights my expertise in:
-
-* SQL & Python-based Data Analysis
-* Power BI & Dashboarding
-* Business Intelligence & KPI Tracking
+This repository contains my **personal portfolio website**, built as a **Data Analyst Command Center** to showcase real-world projects, dashboards, and business insights.
 
 ---
 
 ## 🎯 Key Features
 
-* 📊 **Project Case Studies** — Real-world analytics projects with KPIs & insights
-* 🧠 **Data Storytelling** — Business-focused explanations of data
-* ⚡ **Interactive UI** — Smooth animations & modern dark theme
-* 📱 **Fully Responsive** — Optimized for all devices
-* 📬 **Contact Integration** — Direct connection via email, LinkedIn, GitHub
+* 📊 **Project Case Studies** with KPIs & insights
+* 🧠 **Data Storytelling** with business-focused explanations
+* ⚡ **Smooth UI & Animations** (AOS, modern dark theme)
+* 📱 **Fully Responsive Design**
+* 📬 **Working Contact Form (Email Integration)**
 
 ---
 
@@ -59,22 +53,22 @@ It highlights my expertise in:
 
 ```bash
 Personal-Portfolio-Website/
-├── css/        # Stylesheets & themes
-├── fonts/      # Custom fonts
-├── images/     # Images & assets (preview included)
-├── js/         # Scripts & animations
-├── lib/        # External libraries
-└── index.html  # Main portfolio file
+├── css/
+├── fonts/
+├── images/
+├── js/
+├── lib/
+└── index.html
 ```
 
 ---
 
 ## 💡 Highlights
 
-* Built with a **custom dark "SwiftRoute" theme**
-* Showcases **5+ Data Analytics projects**
-* Worked with **100K+ rows of data**
-* Covers domains like:
+* 🚀 Built with a custom dark **"SwiftRoute" theme**
+* 📊 Showcases **5+ Data Analytics Projects**
+* 📈 Worked with **100K+ rows of data**
+* 🧠 Covers multiple domains:
 
   * E-Commerce
   * Finance
@@ -94,4 +88,4 @@ Personal-Portfolio-Website/
 
 ## ⭐ Final Note
 
-This portfolio is designed to reflect my journey as a **Data Analyst**, combining **technical skills + business insights + clean UI** into one platform.
+This portfolio represents my journey as a **Data Analyst**, combining **technical expertise, business insights, and clean UI design** into one platform.
